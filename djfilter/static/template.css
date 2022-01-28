@@ -1,3 +1,6 @@
-body{
+body {
     margin-top: 5rem;
+}
+ul {
+     list-style-type:none;
 }

@@ -14,6 +14,7 @@ class Category(models.Model):
         return self.name
 
 class Journal(models.Model):
+    objects = None
     title = models.CharField(max_length= 120)
     author = models.ForeignKey(Author , on_delete= models.CASCADE)
     categories = models.ManyToManyField(Category)
