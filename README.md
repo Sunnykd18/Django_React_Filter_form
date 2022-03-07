@@ -1,4 +1,4 @@
-# Django_React_Filter_form
+
 # Django Dynamic Blog
 <!-- ## Website Live At 
 https://curiosityishere.pythonanywhere.com -->
